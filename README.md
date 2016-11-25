@@ -36,3 +36,10 @@ Introduction to Collections
 Working With Arrays - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/working-with-arrays
 
 Quiz: Recap Arrays -  https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/recap-arrays
+
+
+Dictionaries in Swift
+
+Working With Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/working-with-dictionaries
+
+Recap: Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/recap-dictionaries
