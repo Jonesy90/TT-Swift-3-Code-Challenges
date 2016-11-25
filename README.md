@@ -28,3 +28,11 @@ Working With Operators: Part 2 - https://teamtreehouse.com/library/swift-3-basic
 
 Quiz: Unary Operators - https://teamtreehouse.com/library/swift-3-basics/swift-operators/unary-operators
 
+
+Swift 3 Collections & Control Flow
+
+Introduction to Collections
+
+Working With Arrays - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/working-with-arrays
+
+Quiz: Recap Arrays -  https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/recap-arrays
