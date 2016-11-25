@@ -23,3 +23,8 @@ Swift Operators
 Working With Operators - https://teamtreehouse.com/library/swift-3-basics/swift-operators/working-with-operators
 
 Quiz: Operators Precedence - https://teamtreehouse.com/library/swift-3-basics/swift-operators/quiz-operator-precedence
+
+Working With Operators: Part 2 - https://teamtreehouse.com/library/swift-3-basics/swift-operators/working-with-operators-part-2
+
+Quiz: Unary Operators - https://teamtreehouse.com/library/swift-3-basics/swift-operators/unary-operators
+
