@@ -43,3 +43,10 @@ Dictionaries in Swift
 Working With Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/working-with-dictionaries
 
 Recap: Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/recap-dictionaries
+
+
+Control Flow With Loops
+
+For In Loops - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-loops/for-in-loops
+
+Working With Loops - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-loops/working-with-loops
