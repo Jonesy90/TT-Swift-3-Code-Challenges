@@ -50,3 +50,19 @@ Recap: Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-
 For In Loops - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-loops/for-in-loops
 
 Working With Loops - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-loops/working-with-loops
+
+###Control Flow with Conditional Statements
+
+Working With Logical Operators - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/working-with-logical-operators
+
+Working With Switch Statements - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/working-with-switch-statements
+
+Challenge: FizzBuzz Challenge - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/fizzbuzz-challenge
+
+
+
+
+
+
+
+
