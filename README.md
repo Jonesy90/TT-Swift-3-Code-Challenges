@@ -59,6 +59,7 @@ Working With Switch Statements - https://teamtreehouse.com/library/swift-3-colle
 
 Challenge: FizzBuzz Challenge - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/fizzbuzz-challenge
 
+Quiz: Recap Control Flow with Conditional Statements - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/recap-control-flow-with-conditional-statements
 
 
 
