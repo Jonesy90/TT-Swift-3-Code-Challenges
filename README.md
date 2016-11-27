@@ -1,6 +1,6 @@
 #Swift 3 Basics
 
-###An Introduction to Swif Programming
+###An Introduction to Swift Programming
 
 Working With Variables - https://teamtreehouse.com/library/swift-3-basics/an-introduction-to-swift-programming/working-with-variables
 
@@ -8,7 +8,7 @@ Working With Constants - https://teamtreehouse.com/library/swift-3-basics/an-int
 
 Recap: Introduction to Swift Programming - https://teamtreehouse.com/library/swift-3-basics/an-introduction-to-swift-programming/recap-introduction-to-swift-programming
 
-Swift Types
+###Swift Types
 
 String Manipulation - https://teamtreehouse.com/library/swift-3-basics/swift-types/string-manipulation
 
@@ -18,7 +18,7 @@ Recap Swift Types (Code Challenge) - https://teamtreehouse.com/library/swift-3-b
 
 Recap Swift Types (Questionaire) - https://teamtreehouse.com/library/swift-3-basics/swift-types/recap-swift-types-2
 
-Swift Operators
+###Swift Operators
 
 Working With Operators - https://teamtreehouse.com/library/swift-3-basics/swift-operators/working-with-operators
 
@@ -29,23 +29,23 @@ Working With Operators: Part 2 - https://teamtreehouse.com/library/swift-3-basic
 Quiz: Unary Operators - https://teamtreehouse.com/library/swift-3-basics/swift-operators/unary-operators
 
 
-Swift 3 Collections & Control Flow
+#Swift 3 Collections & Control Flow
 
-Introduction to Collections
+###Introduction to Collections
 
 Working With Arrays - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/working-with-arrays
 
 Quiz: Recap Arrays -  https://teamtreehouse.com/library/swift-3-collections-and-control-flow/introduction-to-collections/recap-arrays
 
 
-Dictionaries in Swift
+###Dictionaries in Swift
 
 Working With Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/working-with-dictionaries
 
 Recap: Dictionaries - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/dictionaries-in-swift/recap-dictionaries
 
 
-Control Flow With Loops
+###Control Flow With Loops
 
 For In Loops - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-loops/for-in-loops
 
