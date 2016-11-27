@@ -1,6 +1,6 @@
-Swift 3 Basics
+#Swift 3 Basics
 
-An Introduction to Swif Programming
+###An Introduction to Swif Programming
 
 Working With Variables - https://teamtreehouse.com/library/swift-3-basics/an-introduction-to-swift-programming/working-with-variables
 
