@@ -61,9 +61,15 @@ Challenge: FizzBuzz Challenge - https://teamtreehouse.com/library/swift-3-collec
 
 Quiz: Recap Control Flow with Conditional Statements - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/recap-control-flow-with-conditional-statements
 
+#Functions in Swift 3
 
+###Functions in Swift 3
 
+Basic Function Syntax - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/basic-function-syntax
 
+Recap: Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions
+
+Quiz: Recap Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions-2
 
 
 
