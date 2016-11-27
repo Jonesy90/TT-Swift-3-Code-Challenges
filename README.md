@@ -77,3 +77,14 @@ Function Parameters - https://teamtreehouse.com/library/functions-in-swift-3/add
 
 Return Complex Value - https://teamtreehouse.com/library/functions-in-swift-3/adding-power-to-functions/returning-complex-values
 
+#Object-Oriented Swift 3
+
+###Complex Data Structures
+
+Declaring a Struct - https://teamtreehouse.com/library/objectoriented-swift-3/complex-data-structures/declaring-a-struct
+
+Creating an Instance - https://teamtreehouse.com/library/objectoriented-swift-3/complex-data-structures/creating-an-instance
+
+Adding Instance Methods - https://teamtreehouse.com/library/objectoriented-swift-3/complex-data-structures/adding-instance-methods
+
+Custom Initializers - https://teamtreehouse.com/library/objectoriented-swift-3/complex-data-structures/custom-initializers
