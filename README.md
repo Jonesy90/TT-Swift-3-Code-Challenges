@@ -71,5 +71,9 @@ Recap: Functions - https://teamtreehouse.com/library/functions-in-swift-3/functi
 
 Quiz: Recap Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions-2
 
+###Adding Power to Functions
 
+Function Parameters - https://teamtreehouse.com/library/functions-in-swift-3/adding-power-to-functions/function-parameters
+
+Return Complex Value - https://teamtreehouse.com/library/functions-in-swift-3/adding-power-to-functions/returning-complex-values
 
