@@ -96,3 +96,9 @@ Instances of Classes - https://teamtreehouse.com/library/objectoriented-swift-3/
 Classes with Custom Types - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/classes-with-custom-types
 
 Quiz | Recap: Classes - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/recap-classes
+
+###Class Inheritance
+
+Creating a Subclass - https://teamtreehouse.com/library/objectoriented-swift-3/class-inheritance/creating-a-subclass
+
+Overriding Methods - https://teamtreehouse.com/library/objectoriented-swift-3/class-inheritance/overriding-methods
