@@ -59,7 +59,7 @@ Working With Switch Statements - https://teamtreehouse.com/library/swift-3-colle
 
 Challenge: FizzBuzz Challenge - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/fizzbuzz-challenge
 
-Quiz: Recap Control Flow with Conditional Statements - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/recap-control-flow-with-conditional-statements
+Quiz | Recap: Control Flow with Conditional Statements - https://teamtreehouse.com/library/swift-3-collections-and-control-flow/control-flow-with-conditional-statements/recap-control-flow-with-conditional-statements
 
 #Functions in Swift 3
 
@@ -69,7 +69,7 @@ Basic Function Syntax - https://teamtreehouse.com/library/functions-in-swift-3/f
 
 Recap: Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions
 
-Quiz: Recap Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions-2
+Quiz | Recap: Functions - https://teamtreehouse.com/library/functions-in-swift-3/functions-in-swift-3/recap-functions-2
 
 ###Adding Power to Functions
 
@@ -94,3 +94,5 @@ Custom Initializers - https://teamtreehouse.com/library/objectoriented-swift-3/c
 Instances of Classes - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/instances-of-classes
 
 Classes with Custom Types - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/classes-with-custom-types
+
+Quiz | Recap: Classes - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/recap-classes
