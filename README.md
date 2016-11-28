@@ -102,3 +102,7 @@ Quiz | Recap: Classes - https://teamtreehouse.com/library/objectoriented-swift-3
 Creating a Subclass - https://teamtreehouse.com/library/objectoriented-swift-3/class-inheritance/creating-a-subclass
 
 Overriding Methods - https://teamtreehouse.com/library/objectoriented-swift-3/class-inheritance/overriding-methods
+
+###Differentiating Between Objects
+
+Recap | Value vs Reference Types - https://teamtreehouse.com/library/objectoriented-swift-3/differentiating-between-objects/recap-value-vs-reference-types
