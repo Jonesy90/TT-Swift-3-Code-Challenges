@@ -91,4 +91,6 @@ Custom Initializers - https://teamtreehouse.com/library/objectoriented-swift-3/c
 
 ###Classes in Swift
 
+Instances of Classes - https://teamtreehouse.com/library/objectoriented-swift-3/classes-in-swift/instances-of-classes
 
+Classes with Custom Types - 
